@@ -1,0 +1,6 @@
+kernel/drivers/char/adsprpc.ko
+kernel/drivers/char/adsprpc_compat.ko
+kernel/drivers/char/diag/diagchar.ko
+kernel/drivers/char/diag/diagfwd_mhi.ko
+kernel/drivers/char/hw_random/rng-core.ko
+kernel/drivers/char/hw_random/msm_rng.ko
